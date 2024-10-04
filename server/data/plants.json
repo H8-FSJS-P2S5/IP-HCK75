@@ -1,0 +1,653 @@
+[
+    {
+        "id": 1,
+        "name": "Pohon Ficus",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Bright indirect light",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqW2YFH1YEqtxI0eY-3MHExHmtDTm1linHeA&s"
+    },
+    {
+        "id": 2,
+        "name": "Kaktus",
+        "type": "1",
+        "watersNeeds": "Low",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Cactus mix soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/thumb/5/54/Opuntia_ficus-indica%2C_Springbokvlakte.jpg/640px-Opuntia_ficus-indica%2C_Springbokvlakte.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Aglonema",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Low to bright indirect light",
+        "temperatureRange": "18-24°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Setiawanap-aglaonema.jpg/640px-Setiawanap-aglaonema.jpg"
+        
+    },
+    {
+        "id": 4,
+        "name": "Lidah Buaya",
+        "type": "1",
+        "watersNeeds": "Low",
+        "lightNeeds": "Bright indirect light",
+        "temperatureRange": "15-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Aloe_vera_plant.jpg/640px-The_Aloe_vera_plant.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Monstera",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Bright indirect light",
+        "temperatureRange": "18-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Monstera_deliciosa_DSC02600.jpg/640px-Monstera_deliciosa_DSC02600.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sirih",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Bright indirect light",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Piper_nigrum_2zz.jpg/640px-Piper_nigrum_2zz.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Bunga Melati",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jasmine_flower.jpg/640px-Jasmine_flower.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bunga Matahari",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sunflowers_helianthus_annuus.jpg/640px-Sunflowers_helianthus_annuus.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Bunga Mawar",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-25°C",
+        "soilType": "Rich, well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Rosa_gallica_Kungalvsrosen.jpg/640px-Rosa_gallica_Kungalvsrosen.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Bunga Tulip",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-20°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Red_Tulips_in_Bloom.JPG/640px-Red_Tulips_in_Bloom.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Bunga Anggrek",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Bright indirect light",
+        "temperatureRange": "20-30°C",
+        "soilType": "Orchid potting mix",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pink_And_White_Orchids_Orchidaceae_Sp.jpg/640px-Pink_And_White_Orchids_Orchidaceae_Sp.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Kembang Sepatu",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hibiscus-syriacus.jpg/640px-Hibiscus-syriacus.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Bunga Lily",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lilium_%27Stargazer%27-20200728-RM-163446.jpg/640px-Lilium_%27Stargazer%27-20200728-RM-163446.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Bunga Kamboja",
+        "type": "2",
+        "watersNeeds": "Low",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-35°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Frangipani_flowers.jpg/640px-Frangipani_flowers.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Pohon Bambu",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-30°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bamboo_%285038934562%29.jpg/640px-Bamboo_%285038934562%29.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Pohon Jati",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-35°C",
+        "soilType": "Sandy loam",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tectona_grandis_from_Kerala_02.jpg/640px-Tectona_grandis_from_Kerala_02.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Pohon Mangga",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-35°C",
+        "soilType": "Sandy loam",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mangifera_indica_1a_12.jpg/640px-Mangifera_indica_1a_12.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Pohon Apel",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Malus_domestica_-_Malsch_001.jpg/640px-Malus_domestica_-_Malsch_001.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Pohon Jeruk",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lemon_%28Citrus_limon_aka_Citrus_%C3%97_limon%29.jpg/640px-Lemon_%28Citrus_limon_aka_Citrus_%C3%97_limon%29.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Pohon Pisang",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-35°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Musa_acuminata_23zz.jpg/640px-Musa_acuminata_23zz.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Pohon Nanas",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Sandy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/AnanasComosusOnPlant.jpg/640px-AnanasComosusOnPlant.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Pohon Anggur",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vitis_vinifera_Wildbacher_Herbstbl%C3%A4tter_und_Trauben_01.jpg/640px-Vitis_vinifera_Wildbacher_Herbstbl%C3%A4tter_und_Trauben_01.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Kacang Panjang",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vigna_unguiculata_subsp.sesquipedalis-2-veerapandy-coimbatore-India.jpg/640px-Vigna_unguiculata_subsp.sesquipedalis-2-veerapandy-coimbatore-India.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Tomat",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tomato_6.jpg/640px-Tomato_6.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Cabai",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Capsicum_annuum_2015_G1.jpg/640px-Capsicum_annuum_2015_G1.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Bayam",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pseudoperonospora_farinosa_f.sp._spinaciae_at_Spinacia_oleracea_%287%29.jpg/640px-Pseudoperonospora_farinosa_f.sp._spinaciae_at_Spinacia_oleracea_%287%29.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Bawang Merah",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bawang_dan_serai.jpg/640px-Bawang_dan_serai.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Kangkung",
+        "type": "3",
+        "watersNeeds": "High",
+        "lightNeeds": "Partial shade",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ong_choy_water_spinach.png/640px-Ong_choy_water_spinach.png"
+    },
+    {
+        "id": 29,
+        "name": "Lobak",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Raphanus_sativus_of_Salem.jpg/640px-Raphanus_sativus_of_Salem.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Kembang Kol",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brassica_oleracea_var._botrytis_001.JPG/640px-Brassica_oleracea_var._botrytis_001.JPG"
+    },
+    {
+        "id": 31,
+        "name": "Brokoli",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brassica_oleracea_var._italica_01.jpg/640px-Brassica_oleracea_var._italica_01.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Mentimun",
+        "type": "3",
+        "watersNeeds": "High",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cucurbitales_-_Cucumis_sativus_1.jpg/640px-Cucurbitales_-_Cucumis_sativus_1.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Lentil",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lens_culinaris_sl47.jpg/640px-Lens_culinaris_sl47.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Kacang Hijau",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sa_green_gram.jpg/640px-Sa_green_gram.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Monstera Deliciosa",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Indirect sunlight",
+        "temperatureRange": "18-30°C",
+        "soilType": "Well-draining potting mix",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Monstera_deliciosa_kz04.jpg/640px-Monstera_deliciosa_kz04.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Aster",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/0_1799_Berg-Aster_%28Aster_amellus%29.jpg/640px-0_1799_Berg-Aster_%28Aster_amellus%29.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Bunga Anyelir",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dianthus_caryophyllus%2C_Bangladesh_3.jpg/640px-Dianthus_caryophyllus%2C_Bangladesh_3.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Bunga Dahlia",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dahlia_x_hortensis%2C_jard%C3%ADn_bot%C3%A1nico_de_Tallinn%2C_Estonia%2C_2012-08-13%2C_DD_01.JPG/640px-Dahlia_x_hortensis%2C_jard%C3%ADn_bot%C3%A1nico_de_Tallinn%2C_Estonia%2C_2012-08-13%2C_DD_01.JPG"
+    },
+    {
+        "id": 39,
+        "name": "Bunga Gerbera",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B0_%D0%94%D0%B6%D0%B5%D0%BC%D1%81%D0%BE%D0%BD%D0%B0_%28Lat._Gerbera_Jamesonii%29.jpg/640px-%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B0_%D0%94%D0%B6%D0%B5%D0%BC%D1%81%D0%BE%D0%BD%D0%B0_%28Lat._Gerbera_Jamesonii%29.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Pohon Palm",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phoenix_roebelenii_in_Palm_House_Schoenbrunn_%281%29.jpg/640px-Phoenix_roebelenii_in_Palm_House_Schoenbrunn_%281%29.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Basil",
+        "type": "3",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg/640px-Basil-Basilico-Ocimum_basilicum-albahaca.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Pohon Karet",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Bright indirect light",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ficus_elastica_53131042.jpg/640px-Ficus_elastica_53131042.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Pohon Beringin",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-30°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Moretonbayfigfrom1850.JPG/640px-Moretonbayfigfrom1850.JPG"
+    },
+    {
+        "id": 44,
+        "name": "Pohon Zaitun",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Olea_europaea_Thronos_01.JPG/640px-Olea_europaea_Thronos_01.JPG"
+    },
+    {
+        "id": 45,
+        "name": "Pohon Cherry",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nature_forest_wild_cherry_02.jpg/640px-Nature_forest_wild_cherry_02.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Pohon Almond",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Prunus_amygdalus_-_Gimmeldingen_04.jpg/640px-Prunus_amygdalus_-_Gimmeldingen_04.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Pohon Persik",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prunus_persica_-_Peach_Hungary.jpg/640px-Prunus_persica_-_Peach_Hungary.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Pohon Kacang",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Carya_ovata_%28Shagbark_Hickory%29_%2834439472362%29.jpg/640px-Carya_ovata_%28Shagbark_Hickory%29_%2834439472362%29.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Bunga Hydrangea",
+        "type": "2",
+        "watersNeeds": "High",
+        "lightNeeds": "Partial shade",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hydrangea%2C_Tenn%C5%8Dji%2C_Osaka.jpg/640px-Hydrangea%2C_Tenn%C5%8Dji%2C_Osaka.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Bunga Lavender",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lavendel_Lavandula.JPG/640px-Lavendel_Lavandula.JPG"
+    },
+    {
+        "id": 51,
+        "name": "Pohon Biji Kopi",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coffea_arabica_6.jpg/640px-Coffea_arabica_6.jpg"
+    },
+    {
+        "id": 52,
+        "name": "Pohon Teh",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Partial shade",
+        "temperatureRange": "15-30°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Close-up_look_on_tea_shrubs_at_BOH_Sungei_Palas_Tea_Plantation%2C_Cameron_Highlands.jpg/640px-Close-up_look_on_tea_shrubs_at_BOH_Sungei_Palas_Tea_Plantation%2C_Cameron_Highlands.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Pohon Cacao",
+        "type": "2",
+        "watersNeeds": "High",
+        "lightNeeds": "Partial shade",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Digital_Inclusion_in_the_Peruvian_Amazon_-_48138694956.jpg/640px-Digital_Inclusion_in_the_Peruvian_Amazon_-_48138694956.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Pohon Kecapi",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/4_Santol_%28Kecapi%29_Banjarmasin_%282%29.jpg/640px-4_Santol_%28Kecapi%29_Banjarmasin_%282%29.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Pohon Durian",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tender_fruit%27s_Durian_tree.JPG/640px-Tender_fruit%27s_Durian_tree.JPG"
+    },
+    {
+        "id": 56,
+        "name": "Pohon Rambutan",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rambutan_fruits_Nephelium_lappaceum_02.JPG/640px-Rambutan_fruits_Nephelium_lappaceum_02.JPG"
+    },
+    {
+        "id": 57,
+        "name": "Pohon Sirsak",
+        "type": "4",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/HOG_Annona_muricata_5.jpg/640px-HOG_Annona_muricata_5.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Fiddle Leaf Fig",
+        "type": "1",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Bright, indirect light",
+        "temperatureRange": "18-24°C",
+        "soilType": "Well-draining potting mix",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ficus_lyrata_as_an_example_of_a_doubly-emarginate_leaf.jpg/640px-Ficus_lyrata_as_an_example_of_a_doubly-emarginate_leaf.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Bunga Poppy",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Poster_papaver_5a.jpg/640px-Poster_papaver_5a.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Pohon Maple",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "15-25°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Acer_saccharum_UL_05.jpg/640px-Acer_saccharum_UL_05.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Pohon Oak",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Well-draining soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Quercus_robur_RF.jpg/640px-Quercus_robur_RF.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Pohon Willow",
+        "type": "2",
+        "watersNeeds": "High",
+        "lightNeeds": "Partial shade",
+        "temperatureRange": "15-25°C",
+        "soilType": "Loamy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Weeping_willow_in_Kingston_Hospital_texture.jpg/640px-Weeping_willow_in_Kingston_Hospital_texture.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Pohon Larch",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Sandy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Larix_decidua_%27Repens%27_2006-05-03_02.jpg/640px-Larix_decidua_%27Repens%27_2006-05-03_02.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Pohon Koa",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Sandy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Starr_070205-4082_Acacia_koa.jpg/640px-Starr_070205-4082_Acacia_koa.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Pohon Mahoni",
+        "type": "2",
+        "watersNeeds": "Medium",
+        "lightNeeds": "Full sun",
+        "temperatureRange": "20-30°C",
+        "soilType": "Sandy soil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Caobo_-_Cedro_caoba_%28Swietenia_macrophylla%29_%2814557718478%29.jpg/640px-Caobo_-_Cedro_caoba_%28Swietenia_macrophylla%29_%2814557718478%29.jpg"
+    }
+]
